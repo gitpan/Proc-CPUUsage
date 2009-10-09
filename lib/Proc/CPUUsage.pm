@@ -1,5 +1,6 @@
 package Proc::CPUUsage;
-our $VERSION = '0.1';
+our $VERSION = '1.0';
+
 
 
 use strict;
@@ -49,7 +50,7 @@ Proc::CPUUsage - measures the percentage of CPU the current process is using
 
 =head1 VERSION
 
-version 0.1
+version 1.0
 
 =head1 SYNOPSIS
 
@@ -92,7 +93,7 @@ The value returned is greater than 0 and lower or equal to 1.
 
 =head1 SEE ALSO
 
-L<AnyEvent::Watcher::CPUUsage|AnyEvent::Watcher::CPUUsage> for a more practical use for this module.
+L<AnyEvent::Monitor::CPU|AnyEvent::Monitor::CPU> for a more practical use for this module.
 
 
 =head1 AUTHOR

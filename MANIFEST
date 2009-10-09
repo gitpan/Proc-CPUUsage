@@ -6,8 +6,6 @@ Makefile.PL
 README
 dist.ini
 lib/Proc/CPUUsage.pm
-lib/Proc/pod2htmd.tmp
-lib/Proc/pod2htmi.tmp
 t/00-load.t
 t/01-usage.t
 t/release-meta-yaml.t
