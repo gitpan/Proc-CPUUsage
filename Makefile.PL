@@ -9,7 +9,7 @@ WriteMakefile(
   NAME      => 'Proc::CPUUsage',
   AUTHOR    => "Pedro\ Melo",
   ABSTRACT  => "measures\ the\ percentage\ of\ CPU\ the\ current\ process\ is\ using",
-  VERSION   => '1.0',
+  VERSION   => '1.001',
   EXE_FILES => [ qw() ],
   (eval { ExtUtils::MakeMaker->VERSION(6.31) } ? (LICENSE => 'perl') : ()),
   PREREQ_PM    => {

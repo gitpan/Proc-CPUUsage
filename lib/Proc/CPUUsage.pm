@@ -1,5 +1,5 @@
 package Proc::CPUUsage;
-our $VERSION = '1.0';
+our $VERSION = '1.001';
 
 
 
@@ -50,7 +50,7 @@ Proc::CPUUsage - measures the percentage of CPU the current process is using
 
 =head1 VERSION
 
-version 1.0
+version 1.001
 
 =head1 SYNOPSIS
 
